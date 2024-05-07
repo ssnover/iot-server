@@ -1,0 +1,9 @@
+{
+	"rust-analyzer.check.allTargets": false,
+	//"rust-analyzer.cargo.target": "wasm32-unknown-unknown",
+	"rust-analyzer.linkedProjects": [
+        // Uncomment for the project you're actively working on
+        "backend/Cargo.toml",
+        //"frontend/Cargo.toml",
+    ],
+}
