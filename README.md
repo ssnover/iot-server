@@ -4,3 +4,4 @@ This is the source code for a tutorial series I'm writing on [my blog](https://s
 If you're looking for the source code snapshotted as the result of a specific blog post, check out the dropdown menu for the list of branches.
 
 ## Posts
+1. [Developing Full-Stack Rust Applications with WebSockets, Part 1](https://shanesnover.com/2024/05/08/fullstack-iot-part1.html)
